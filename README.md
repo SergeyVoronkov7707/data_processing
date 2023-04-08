@@ -1,4 +1,8 @@
 # data_processing
+## preprocessing_data.ipynb  
+  
+код можно найти по ссылке: https://drive.google.com/file/d/1xds3tDWEBJi5B4JAMNPRL3kTHFwNgIcM/view?usp=share_link  
+
 Предобработка датасета с бинарной целевой переменной  
 Базовый анализ данных   
 Базовый анализ целевой переменной  
